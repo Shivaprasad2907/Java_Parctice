@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 // Take a character and check if it’s a vowel or consonant. 
 public class Vowels {

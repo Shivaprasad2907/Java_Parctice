@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 public class ValidTriangle {
     public static void main(String[] args) {

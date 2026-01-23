@@ -1,4 +1,4 @@
-package controlStatements;
+package controlstatements;
 
 public class MaximumProfitCode2 {
 	

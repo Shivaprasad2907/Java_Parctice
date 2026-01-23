@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 // Check whether a year is leap year or not using method
 public class LeapYear {

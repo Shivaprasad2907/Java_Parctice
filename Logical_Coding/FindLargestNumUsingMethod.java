@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 // Take n numbers and print the largest number using method using array and while loop or if/for loop
 public class FindLargestNumUsingMethod {

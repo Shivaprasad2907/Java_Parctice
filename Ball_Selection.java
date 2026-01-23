@@ -11,6 +11,7 @@
 // For example, if the balls are numbered 1 to 1000, the program should randomly select a number between 2 and 999 (inclusive). {
 // }
 import java.util.Random;
+
 public class Ball_Selection {
     public static void main(String[] args) {
         int minNum = 1; // Minimum ball number

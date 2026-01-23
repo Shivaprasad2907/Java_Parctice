@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 // Take three numbers and print the largest
 

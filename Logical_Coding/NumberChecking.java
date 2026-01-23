@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Logical_Coding;
+package logical_coding;
 
 // Take two numbers and print the larger one.
 public class FindLargestNumber {

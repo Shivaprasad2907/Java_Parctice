@@ -2,7 +2,8 @@ public class BinarySearch {
 	
 	 public int search(int[] nums, int target) {
 		 
-		 int left = 0, right = nums.length - 1;
+		 int left = 0;
+		 int right = nums.length - 1;
 		 
 	
 		 
@@ -24,6 +25,7 @@ public class BinarySearch {
 	    }
  
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
 		int[] nums = {-1,0,1,5,7,8,9,10,11,13,15,19};
 		int target = 1;

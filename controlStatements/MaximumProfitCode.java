@@ -1,4 +1,4 @@
-package controlStatements;
+package controlstatements;
 
 public class MaximumProfitCode {
 	static void proposeAds(int breaktime,String duration[],String charge[])

@@ -1,8 +1,11 @@
-package controlStatements;
+package controlstatements;
 
 public class RealStateBusinessCode {
 	
 	//Real Estate Business
+	int n, m;
+	
+	static int maxBipartiteMatching(int n, int m, int[][] clients, int[][] houses) {
 	boolean[][] matrix = new boolean[n][m];
 	  for(int i = 0; i < n; i ++) {
 	   int m;

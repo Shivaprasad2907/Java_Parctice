@@ -5,6 +5,48 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "RemoveFirstandLastChar",
+            "request": "launch",
+            "mainClass": "StringManupulation.RemoveFirstandLastChar",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "StringManupulation.Reverse",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
+            "type": "java",
+            "name": "RemoveFirstandLastChar",
+            "request": "launch",
+            "mainClass": "strings_manipulation.RemoveFirstandLastChar",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
+            "type": "java",
+            "name": "HalfReverseString",
+            "request": "launch",
+            "mainClass": "strings_manipulation.HalfReverseString",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
+            "type": "java",
+            "name": "MiddleWord",
+            "request": "launch",
+            "mainClass": "strings.MiddleWord",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Strings.ReverseString",
+            "projectName": "Java_Parctice_ef56e302"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
